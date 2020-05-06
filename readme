@@ -1,0 +1,18 @@
+Hier können wir unsere Ideen austauschen und den Ablauf klären:
+
+Fragen:
+
+Deskriptiv/ Explorativ ?
+Gibt es Cluster von Immobilienpreisen? Gibt es Gebiete mit höheren Immobilienpreise? Spiegeln die Ergebnisse Stadteile etc. wieder?
+Anhand welcher Variablen lassen sich Immobilienpreise besonders gut bestimmen?
+Was denken die Gruppenmitglieder intuitiv mit welchen Merkmalen man Immobilienpreise gut bestimmen kann?
+Spiegeln die Ergebnisse die Erwartungen wider?
+
+Teil Machine Learning:
+
+Unterscheidet sich die Vorhersagequalität von Neuronalen Netzen, Linearer Regression, Gradient Boosting, etc.?
+Welche Variablen/ Merkmale bevorzugen die Verfahren, um eine gute Vorhersage zu treffen?
+Welchen Einfluss hat die Datenvorverarbeitung/ Preprocessing auf die Verfahren?
+
+Eventuell:
+Welche Ergebnisse gibt es auf anderen Immobiliendatensätzen? Nutzen die Modelle andere Variablen?
